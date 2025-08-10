@@ -15,7 +15,7 @@ No separate patching or manual setup is required.
 
 ## 📖 How to Use
 
-1. **Download** the pre-patched setup file from [Releases](https://github.com/gujarathisampath/StarUML-Cracked/releases/download/v1/StarUML%20Setup%20v7.0.0.exe).
+1. **Download** the pre-patched setup file from [Releases](https://github.com/gujarathisampath/StarUML-Unlocker/releases/download/v7.0.0/StarUML.Setup.v7.0.0.exe).
 2. **Run** the installer
 3. Follow the on-screen installation steps.
 4. Launch StarUML — all premium features will be ready to use.
