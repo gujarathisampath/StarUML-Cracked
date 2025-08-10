@@ -23,6 +23,6 @@ No separate patching or manual setup is required.
 
 ## ⚠ Disclaimer
 
-This project is for **educational purposes only**.
-Use entirely **at your own risk**.
-The author is not affiliated with or endorsed by StarUML.
+* This project is for **educational purposes only**.
+* Use entirely **at your own risk**.
+* The author is not affiliated with or endorsed by StarUML.
