@@ -20,6 +20,25 @@ No separate patching or manual setup is required.
 3. Follow the on-screen installation steps.
 4. Launch StarUML — all premium features will be ready to use.
 
+---
+
+## 🔧 Manual Patch (Windows / macOS / Linux)
+
+**1. Locate StarUML `resources` folder**  
+- **Windows:** `C:\Program Files\StarUML\resources\`  
+- **macOS:** `/Applications/StarUML.app/Contents/Resources/`  
+- **Linux:** `/opt/StarUML/resources/`  
+
+**2. Backup original file**  
+- Rename `app.asar` → `app.asar.bak`
+
+**3. Replace with patched file**  
+- Download from [Releases](https://github.com/gujarathisampath/StarUML-Unlocker/releases/download/v7.0.0/app.asar)  
+- Place into the same `resources` folder
+
+**4. Launch StarUML** — premium features enabled.
+
+---
 
 ## ⚠ Disclaimer
 
